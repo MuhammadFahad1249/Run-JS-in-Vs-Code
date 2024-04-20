@@ -1,0 +1,6 @@
+STEP 1:  First of All download Node.js from  https://nodejs.org/en/download
+STEP 2:  On cmd type node --version to check the node is properly downloaded or not 
+STEP 3:  Now in VS Code Extention , search " JavaScript (ES6) code snippets " and enable it
+STEP 4:  Also enable Code runner extention in VS code
+STEP 5:  Create .js file and click on play button at the top right side in VS code
+STEP 6:  Hey champ ! you setup VS code for JS 
